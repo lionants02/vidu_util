@@ -6,7 +6,7 @@ import datetime
 
 # vidu_server = https://vidu.com
 vidu_server = sys.argv[1]
-# last_hour = 72
+# vidu_secret = 'xxxxxxxxx'
 vidu_secret = sys.argv[2]
 # last_hour = 72
 last_hour = int(sys.argv[3])
